@@ -2,3 +2,5 @@ node_modules
 .git
 .vercel
 public
+.DS_Store
+build
